@@ -1,3 +1,2 @@
 hello world
-hello everyone
-hello 
+hello everyone 
